@@ -1,0 +1,248 @@
+# //  ModelSim SE-64 2021.2 Apr 14 2021 Linux 3.10.0-1160.83.1.el7.x86_64
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# vsim tb_count -t ns 
+# Start time: 13:39:07 on May 13,2023
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Error: count.gate.v(34): Module '\**SEQGEN** ' is not defined.
+#  For instance '\count_ps_reg[3] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(38): Module '\**SEQGEN** ' is not defined.
+#  For instance '\count_ps_reg[2] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(42): Module '\**SEQGEN** ' is not defined.
+#  For instance '\count_ps_reg[1] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(46): Module '\**SEQGEN** ' is not defined.
+#  For instance '\count_ps_reg[0] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(50): Module 'EQ_TC_OP' is not defined.
+#  For instance 'eq_54' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(54): Module 'EQ_TC_OP' is not defined.
+#  For instance 'eq_60' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(58): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[31] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(62): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[30] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(66): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[29] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(70): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[28] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(74): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[27] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(78): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[26] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(82): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[25] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(86): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[24] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(90): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[23] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(94): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[22] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(98): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[21] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(102): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[20] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(106): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[19] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(110): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[18] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(114): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[17] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(118): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[16] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(122): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[15] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(126): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[14] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(130): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[13] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(134): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[12] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(138): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[11] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(142): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[10] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(146): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[9] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(150): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[8] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(154): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[7] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(158): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[6] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(162): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[5] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(166): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[4] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(170): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[3] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(174): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[2] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(178): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[1] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(182): Module '\**SEQGEN** ' is not defined.
+#  For instance '\i_reg[0] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(186): Module '\**SEQGEN** ' is not defined.
+#  For instance '\in_a_reg[7] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(190): Module '\**SEQGEN** ' is not defined.
+#  For instance '\in_a_reg[6] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(194): Module '\**SEQGEN** ' is not defined.
+#  For instance '\in_a_reg[5] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(198): Module '\**SEQGEN** ' is not defined.
+#  For instance '\in_a_reg[4] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(202): Module '\**SEQGEN** ' is not defined.
+#  For instance '\in_a_reg[3] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(206): Module '\**SEQGEN** ' is not defined.
+#  For instance '\in_a_reg[2] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(210): Module '\**SEQGEN** ' is not defined.
+#  For instance '\in_a_reg[1] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(214): Module '\**SEQGEN** ' is not defined.
+#  For instance '\in_a_reg[0] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(218): Module '\**SEQGEN** ' is not defined.
+#  For instance '\counter_reg[7] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(222): Module '\**SEQGEN** ' is not defined.
+#  For instance '\counter_reg[6] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(226): Module '\**SEQGEN** ' is not defined.
+#  For instance '\counter_reg[5] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(230): Module '\**SEQGEN** ' is not defined.
+#  For instance '\counter_reg[4] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(234): Module '\**SEQGEN** ' is not defined.
+#  For instance '\counter_reg[3] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(238): Module '\**SEQGEN** ' is not defined.
+#  For instance '\counter_reg[2] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(242): Module '\**SEQGEN** ' is not defined.
+#  For instance '\counter_reg[1] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(246): Module '\**SEQGEN** ' is not defined.
+#  For instance '\counter_reg[0] ' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(250): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_0' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(251): Module 'GTECH_OR2' is not defined.
+#  For instance 'C189' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(252): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_1' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(253): Module 'ADD_UNS_OP' is not defined.
+#  For instance 'add_47' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(255): Module 'ADD_UNS_OP' is not defined.
+#  For instance 'add_52' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(257): Module 'ADD_TC_OP' is not defined.
+#  For instance 'add_53' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(260): Module 'ADD_UNS_OP' is not defined.
+#  For instance 'add_58' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(262): Module 'ADD_TC_OP' is not defined.
+#  For instance 'add_59' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(266): Module 'SELECT_OP' is not defined.
+#  For instance 'C191' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(268): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_0' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(269): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_1' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(270): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_2' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(271): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_3' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(272): Module 'SELECT_OP' is not defined.
+#  For instance 'C194' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(275): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_2' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(276): Module 'SELECT_OP' is not defined.
+#  For instance 'C195' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(279): Module 'SELECT_OP' is not defined.
+#  For instance 'C196' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(290): Module 'SELECT_OP' is not defined.
+#  For instance 'C197' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(293): Module 'SELECT_OP' is not defined.
+#  For instance 'C198' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(299): Module 'SELECT_OP' is not defined.
+#  For instance 'C199' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(302): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_3' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(303): Module 'SELECT_OP' is not defined.
+#  For instance 'C200' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(307): Module 'SELECT_OP' is not defined.
+#  For instance 'C201' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(309): Module 'SELECT_OP' is not defined.
+#  For instance 'C202' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(312): Module 'MUX_OP' is not defined.
+#  For instance 'C203' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(315): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_4' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(316): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_5' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(317): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_6' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(318): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_4' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(319): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_5' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(320): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_6' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(321): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_7' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(322): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_8' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(323): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_9' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(324): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_10' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(325): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_11' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(326): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_12' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(327): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_7' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(328): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_8' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(329): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_9' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(330): Module 'GTECH_OR2' is not defined.
+#  For instance 'C228' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(331): Module 'GTECH_OR2' is not defined.
+#  For instance 'C229' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(332): Module 'GTECH_OR2' is not defined.
+#  For instance 'C230' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(333): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_13' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(334): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_14' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(335): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_15' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(336): Module 'GTECH_BUF' is not defined.
+#  For instance 'B_10' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(337): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_16' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(338): Module 'GTECH_AND2' is not defined.
+#  For instance 'C236' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(339): Module 'GTECH_AND2' is not defined.
+#  For instance 'C237' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(340): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_17' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(341): Module 'GTECH_AND2' is not defined.
+#  For instance 'C239' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(342): Module 'GTECH_AND2' is not defined.
+#  For instance 'C240' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(343): Module 'GTECH_AND2' is not defined.
+#  For instance 'C241' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(344): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_18' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(345): Module 'GTECH_AND2' is not defined.
+#  For instance 'C243' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(346): Module 'GTECH_AND2' is not defined.
+#  For instance 'C244' at path 'tb_count.count_instance'
+# ** Error: count.gate.v(347): Module 'GTECH_AND2' is not defined.
+#  For instance 'C245' at path 'tb_count.count_instance'
+# ** Error: tb_count.gate.v(20): Module 'GTECH_NOT' is not defined.
+#  For instance 'I_0' at path 'tb_count'
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=113, Warnings=0.
+# Error loading design
+# End time: 13:39:08 on May 13,2023, Elapsed time: 0:00:01
+# Errors: 113, Warnings: 0
+exit

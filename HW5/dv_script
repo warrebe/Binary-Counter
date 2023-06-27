@@ -1,0 +1,7 @@
+analyze -format sverilog  -lib WORK count.sv
+elaborate count -lib WORK
+compile
+report_timing > timing.txt
+report_area > area.txt
+write -hierarchy -format verilog -output count.gate.v
+quit

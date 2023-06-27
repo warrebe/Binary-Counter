@@ -1,0 +1,44 @@
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Error: Could not read the following target libraries:
+your_library.db 
+ (UIO-3)
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Warning: Can't read link_library file 'your_library.db'. (UID-3)
+Information: Updating design information... (UID-85)
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : count
+Version: L-2016.03-SP2
+Date   : Sat May 13 13:38:37 2023
+****************************************
+
+Operating Conditions: nom_pvt   Library: gtech
+Wire Load Model Mode: top
+
+  Startpoint: count_ps_reg[0]
+              (rising edge-triggered flip-flop)
+  Endpoint: done (output port)
+  Path Group: (none)
+  Path Type: max
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  count_ps_reg[0]/clocked_on (**SEQGEN**)                 0.00       0.00 r
+  count_ps_reg[0]/Q (**SEQGEN**)                          0.00       0.00 r
+  B_2/Z (GTECH_BUF)                                       0.00       0.00 r
+  C202/Z_0 (*SELECT_OP_5.1_5.1_1)                         0.00       0.00 r
+  done (out)                                              0.00       0.00 r
+  data arrival time                                                  0.00
+  --------------------------------------------------------------------------
+  (Path is unconstrained)
+
+
+1

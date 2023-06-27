@@ -1,0 +1,32 @@
+ 
+****************************************
+Report : area
+Design : count
+Version: L-2016.03-SP2
+Date   : Sat May 13 13:38:37 2023
+****************************************
+
+Library(s) Used:
+
+    gtech (File: /usr/local/apps/synopsys/current_synthesis/libraries/syn/gtech.db)
+
+Number of ports:                          627
+Number of nets:                          1374
+Number of cells:                          664
+Number of combinational cells:            580
+Number of sequential cells:                70
+Number of macros/black boxes:               0
+Number of buf/inv:                         38
+Number of references:                      15
+
+Combinational area:                  0.000000
+Buf/Inv area:                        0.000000
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                     0.000000
+Total area:                 undefined
+
+Information: This design contains unmapped logic. (RPT-7)
+1
